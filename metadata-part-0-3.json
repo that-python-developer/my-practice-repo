@@ -1,0 +1,5 @@
+{
+    "email": "The email address associated with the individual or entity in the CRE or CMBS dataset. Used for communication and identification purposes.",
+    "phone_number": "The contact phone number for the individual or entity related to the CRE or CMBS data. Useful for direct communication and verification.",
+    "country": "The country where the commercial real estate property is located or where the entity associated with the CMBS is based. Important for geographical analysis and regulatory considerations."
+}
