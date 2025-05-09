@@ -1,0 +1,10 @@
+{
+    "id": "Unique identifier for each CRE or CMBS data entry. Used as a primary key for database operations and record tracking.",
+    "name": "Name of the individual, entity, or property associated with the CRE or CMBS data entry. Useful for identification and reference purposes.",
+    "age": "Age of the individual associated with the CRE or CMBS data, or the age of the property in years. Provides context for risk assessment or property valuation.",
+    "city": "City where the commercial real estate property is located or where the CMBS is issued. Important for local market analysis and geographical segmentation.",
+    "timestamp": "Date and time when the CRE or CMBS data entry was recorded or last updated. Crucial for tracking data freshness and historical analysis.",
+    "email": "Email address of the individual associated with the commercial real estate or CMBS data entry. Used for communication and identification purposes.",
+    "phone_number": "Contact phone number for the individual or entity associated with the CRE or CMBS data entry. Useful for direct communication and verification.",
+    "country": "The country where the commercial real estate property is located or where the CMBS is issued. Important for geographical analysis and regulatory considerations."
+}
