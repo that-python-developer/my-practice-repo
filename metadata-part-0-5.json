@@ -1,0 +1,7 @@
+{
+    "countystatisticsid": "Unique identifier for each county statistics record, used for data management and referencing.",
+    "distributiondate": "Date when the statistics were distributed or reported, providing a time context for the data.",
+    "countyallemployees": "Total number of employees in the county, measured in individuals. Indicates the size of the local workforce.",
+    "countytotalestablishment": "Total number of business establishments in the county, measured in units. Reflects the level of economic activity and diversity in the area.",
+    "countyname": "Name of the county for which the statistics are reported, allowing for geographical identification and analysis."
+}
