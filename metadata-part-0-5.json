@@ -1,0 +1,7 @@
+{
+    "id": "Unique identifier for each record in the dataset, used as a primary key.",
+    "name": "Full name of the individual associated with the record.",
+    "age": "Age of the individual in years.",
+    "city": "Name of the city where the individual resides or is associated with.",
+    "timestamp": "Date and time when the record was created or last updated, providing chronological context for the data."
+}

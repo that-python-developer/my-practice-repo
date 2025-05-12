@@ -1,0 +1,5 @@
+{
+    "email": "Email address of the individual associated with the record, used for communication and identification purposes.",
+    "phone_number": "Contact phone number of the individual, including country and area codes if applicable.",
+    "country": "Name of the country where the individual resides or is associated with, providing geographic context for the record."
+}
